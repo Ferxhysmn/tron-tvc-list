@@ -6,7 +6,7 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+      "address": "TTTa1nEAnzdsnxYaCRaCpJH2mCbQTPrWPd",
       "symbol": "WIN",
       "name": "WINkLink",
       "decimals": 6,
